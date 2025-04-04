@@ -2,24 +2,20 @@ html {
   height: 100%;
   width: 100%;
 }
-
-h1{color:#a2c4cd;
-  font-family: "Optima", sans-serif;;}
+h1{color:#7a0014;
+   font-family: "Optima", sans-serif;;}
 body {
-  background-color: #0f495c;
+  background-color:#ffe5f6;
 }
 
-p{color: white;}
-
-p2{color: #a2c4cd;
-font-family: "Optima", sans-serif;;}
-ul{color: white}
-
-p4{color:white}
-
-p5{color:#a2c4cd;
+p{color:black}
+p2{color:#7a0014;
 font-family: "Optima", sans-serif;}
-
-p6{color:#a2c4cd;
+p3{color:#7a0014;
 font-family: "Optima", sans-serif;}
-a{color:white}
+p4{color:#7a0014;
+font-family: "Optima", sans-serif;}
+p5{color:#7a0014;
+font-family: "Optima", sans-serif;}
+p6{color:#7a0014;
+font-family: "Optima", sans-serif;}
